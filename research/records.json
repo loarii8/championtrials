@@ -1,0 +1,110 @@
+{
+  "accessed_date": "2026-11-21",
+  "records": [
+    {
+      "slug": "peja-census-orchards-2014",
+      "record_type": "regional_fact",
+      "title": "Peja orchards in the 2014 Agricultural Census",
+      "description": "ASK recorded 233.02 hectares of orchard plantations in Peja municipality in 2014: 176.70 hectares of apples, 28.52 hectares of plums, and 8.92 hectares of pears. Historical census context only; not a current production, availability, or seller claim.",
+      "location": "Peja municipality",
+      "verification_status": "publicly_documented",
+      "source_url": "https://askdata.rks-gov.net/api/v1/en/ASKdata/Agriculture/Agriculture%20census%202014/2%20Land%20Use/Tabla%202_16.px",
+      "public_listing_permission": true,
+      "metadata": {
+        "reference_year": 2014,
+        "orchards_ha": 233.02,
+        "apples_ha": 176.70,
+        "plums_ha": 28.52,
+        "pears_ha": 8.92
+      }
+    },
+    {
+      "slug": "peja-census-livestock-2014",
+      "record_type": "regional_fact",
+      "title": "Peja livestock in the 2014 Agricultural Census",
+      "description": "ASK recorded 18,199 cattle, including 8,893 dairy cows, 8,599 sheep, and 1,420 goats in Peja municipality in 2014. These are historical animal counts, not current farm output or marketplace availability.",
+      "location": "Peja municipality",
+      "verification_status": "publicly_documented",
+      "source_url": "https://askdata.rks-gov.net/api/v1/en/ASKdata/Agriculture/Agriculture%20census%202014/3%20Livestock/Tabela%203_3.px",
+      "public_listing_permission": true,
+      "metadata": {
+        "reference_year": 2014,
+        "cattle": 18199,
+        "dairy_cows": 8893,
+        "sheep": 8599,
+        "goats": 1420
+      }
+    },
+    {
+      "slug": "rugova-municipal-geography",
+      "record_type": "location",
+      "title": "Rugova and its villages",
+      "description": "Peja Municipality describes Rugova as northwest of Peja and says the region includes 15 villages. No farm coordinates or private addresses are included.",
+      "location": "Rugova, northwest of Peja",
+      "verification_status": "publicly_documented",
+      "source_url": "https://peja.rks-gov.net/rugova/",
+      "public_listing_permission": true,
+      "metadata": {
+        "village_count": 15,
+        "coordinates": null
+      }
+    },
+    {
+      "slug": "rugova-municipal-food-traditions",
+      "record_type": "food_tradition",
+      "title": "Foods named in Peja Municipality tourism material",
+      "description": "Municipal tourism material names milk, cheese, yogurt, honey, mountain tea, lakror, flija, and kaçamak. It lists Restaurant Bjeshka at Garuzhda (Shtypeq i Madh). This is cultural/tourism context, not proof of current production, supply, or PejaMarket participation.",
+      "location": "Garuzhda (Shtypeq i Madh), Rugova",
+      "verification_status": "publicly_documented",
+      "source_url": "https://peja.rks-gov.net/burimet-natyrore-resurset-turistike/",
+      "public_listing_permission": true,
+      "metadata": {
+        "venue_type": "restaurant",
+        "venue_name": "Restaurant Bjeshka",
+        "is_farmer": false,
+        "is_pejamarket_member": false,
+        "foods": [
+          "Milk",
+          "Cheese",
+          "Yogurt",
+          "Honey",
+          "Mountain tea",
+          "Lakror",
+          "Flija",
+          "Kaçamak"
+        ]
+      }
+    },
+    {
+      "slug": "peja-historical-vegetable-sourcing",
+      "record_type": "historical_market_reference",
+      "title": "Historical report of vegetables supplied from Peja",
+      "description": "A 2020 article reports a Prishtina restaurant received squash, carrots, and peppers from an unnamed farmer in Peja. The farmer is not identified, and this does not establish a current supply relationship or an available PejaMarket seller.",
+      "location": "Peja to Prishtina (historical report)",
+      "verification_status": "publicly_documented",
+      "source_url": "https://prishtinainsight.com/guide/thana-rosticeri-bringing-the-farm-to-your-plate/",
+      "public_listing_permission": true,
+      "metadata": {
+        "reported_year": 2020,
+        "supplier_named": false,
+        "current_supply_verified": false
+      }
+    },
+    {
+      "slug": "restaurant-bjeshka-municipal-listing",
+      "record_type": "food_venue",
+      "title": "Restaurant Bjeshka (municipal tourism listing)",
+      "description": "Peja Municipality's tourism material locates this food venue at Garuzhda (Shtypeq i Madh) and lists traditional foods. It is a restaurant, not a verified farm, producer, marketplace seller, or PejaMarket member; current status and sourcing are unverified.",
+      "location": "Garuzhda (Shtypeq i Madh)",
+      "verification_status": "publicly_documented",
+      "source_url": "https://peja.rks-gov.net/burimet-natyrore-resurset-turistike/",
+      "public_listing_permission": false,
+      "metadata": {
+        "business_type": "restaurant",
+        "is_farmer": false,
+        "current_operation_verified": false,
+        "joined_pejamarket": false
+      }
+    }
+  ]
+}

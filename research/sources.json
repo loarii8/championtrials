@@ -1,0 +1,320 @@
+{
+  "accessed_date": "2026-11-21",
+  "sources": [
+    {
+      "key": "ask-land-use-2014",
+      "title": "Agricultural Census 2014 — Land Use, Table 2.22",
+      "publisher": "Kosovo Agency of Statistics",
+      "url": "https://askdata.rks-gov.net/api/v1/en/ASKdata/Agriculture/Agriculture%20census%202014/2%20Land%20Use/Tabla%202_22.px",
+      "source_type": "official_statistics",
+      "coverage": "Peja municipality, 2014 census",
+      "notes": "Agricultural holdings and utilized agricultural area; historical rather than current values."
+    },
+    {
+      "key": "ask-orchards-2014",
+      "title": "Agricultural Census 2014 — Orchards, Table 2.16",
+      "publisher": "Kosovo Agency of Statistics",
+      "url": "https://askdata.rks-gov.net/api/v1/en/ASKdata/Agriculture/Agriculture%20census%202014/2%20Land%20Use/Tabla%202_16.px",
+      "source_type": "official_statistics",
+      "coverage": "Peja municipality, 2014 census",
+      "notes": "Orchard area by fruit type."
+    },
+    {
+      "key": "ask-livestock-2014",
+      "title": "Agricultural Census 2014 — Livestock, Table 3.3",
+      "publisher": "Kosovo Agency of Statistics",
+      "url": "https://askdata.rks-gov.net/api/v1/en/ASKdata/Agriculture/Agriculture%20census%202014/3%20Livestock/Tabela%203_3.px",
+      "source_type": "official_statistics",
+      "coverage": "Peja municipality, 2014 census",
+      "notes": "Livestock counts, including dairy cows, sheep, and goats."
+    },
+    {
+      "key": "municipality-rugova",
+      "title": "Rugova",
+      "publisher": "Peja Municipality",
+      "url": "https://peja.rks-gov.net/rugova/",
+      "source_type": "official_municipal",
+      "coverage": "Rugova region and villages",
+      "notes": "Municipality tourism/geography description; not a farm registry."
+    },
+    {
+      "key": "municipality-tourism-food",
+      "title": "Natural resources and tourist resources",
+      "publisher": "Peja Municipality",
+      "url": "https://peja.rks-gov.net/burimet-natyrore-resurset-turistike/",
+      "source_type": "official_municipal",
+      "coverage": "Rugova tourism and food venue description",
+      "notes": "Names Restaurant Bjeshka and traditional foods; does not establish sourcing or live availability."
+    },
+    {
+      "key": "prishtina-insight-thana-2020",
+      "title": "Thana Rosticeri: Bringing the Farm to Your Plate",
+      "publisher": "Prishtina Insight",
+      "url": "https://prishtinainsight.com/guide/thana-rosticeri-bringing-the-farm-to-your-plate/",
+      "source_type": "local_news",
+      "coverage": "Historical 2020 report of an unnamed Peja farmer supplying a Prishtina restaurant",
+      "notes": "Anecdotal historical source; no farmer identity or current relationship."
+    },
+    {
+      "key": "ask-agriculture-prices",
+      "title": "Quarterly Output Price Index and Prices in Agriculture",
+      "publisher": "Kosovo Agency of Statistics",
+      "url": "https://askdata.rks-gov.net/api/v1/en/ASKdata/Agriculture/Agriculture%20Price%20and%20Price%20Index/Indeksi%20i%20%C3%87mimeve%20t%C3%AB%20Prodhimit%20dhe%20%C3%87mimet%20n%C3%AB%20Bujq%C3%ABsi/Quarterly%20Output%20Price%20Index%20and%20Prices%20in%20Agriculture/ICPB04.px",
+      "source_type": "official_statistics",
+      "coverage": "National Kosovo agricultural price series",
+      "notes": "Not Peja-specific; catalog and table coverage differ. No prices imported."
+    },
+    {
+      "key": "askdata-portal",
+      "title": "ASKdata portal",
+      "publisher": "Kosovo Agency of Statistics",
+      "url": "https://askdata.rks-gov.net/pxweb/sq/ASKdata/",
+      "source_type": "official_statistics_portal",
+      "coverage": "Kosovo",
+      "notes": "Portal used to identify statistical tables."
+    },
+    {
+      "key": "peja-agriculture",
+      "title": "Agriculture",
+      "publisher": "Peja Municipality",
+      "url": "https://peja.rks-gov.net/bujqesi/",
+      "source_type": "official_municipal",
+      "coverage": "Peja municipal agriculture pages",
+      "notes": "Reviewed for current public program and registry information; no current grant or named beneficiary imported."
+    },
+    {
+      "key": "peja-agriculture-services",
+      "title": "Directorate of Agriculture — Services",
+      "publisher": "Peja Municipality",
+      "url": "https://peja.rks-gov.net/drejtoria-e-drejtoria-e-bujqesise-sherbimet/",
+      "source_type": "official_municipal",
+      "coverage": "Peja municipal services",
+      "notes": "Reviewed for public agricultural program information."
+    },
+    {
+      "key": "peja-agriculture-reports",
+      "title": "Directorate of Agriculture — Reports archive",
+      "publisher": "Peja Municipality",
+      "url": "https://peja.rks-gov.net/category/raporti-i-drejtorise-per-bujqesi/drejtoria-e-drejtoria-e-bujqesise-raportet/",
+      "source_type": "official_municipal",
+      "coverage": "Peja municipal agriculture reports",
+      "notes": "Reviewed for public reports; no current grants or named beneficiaries imported."
+    },
+    {
+      "key": "ministry-direct-payments",
+      "title": "Direct payments",
+      "publisher": "Kosovo Ministry of Agriculture, Forestry and Rural Development",
+      "url": "https://mbpzhr.rks-gov.net/pagesat-direkte/",
+      "source_type": "official_national",
+      "coverage": "Kosovo-wide program information",
+      "notes": "Not evidence of a current Peja award."
+    },
+    {
+      "key": "ministry-grants",
+      "title": "Grants",
+      "publisher": "Kosovo Ministry of Agriculture, Forestry and Rural Development",
+      "url": "https://mbpzhr.rks-gov.net/grante/",
+      "source_type": "official_national",
+      "coverage": "Kosovo-wide program information",
+      "notes": "Not evidence of a current Peja award."
+    },
+    {
+      "key": "ministry-subsidies",
+      "title": "Subsidies",
+      "publisher": "Kosovo Ministry of Agriculture, Forestry and Rural Development",
+      "url": "https://mbpzhr.rks-gov.net/subvencione/",
+      "source_type": "official_national",
+      "coverage": "Kosovo-wide program information",
+      "notes": "Not evidence of a current Peja award."
+    },
+    {
+      "key": "image-rugova-canyon",
+      "title": "Rugova Canyon — Peja, Kosovo",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Rugova_Canyon_%E2%80%93_Peja,_Kosovo.jpg",
+      "source_type": "licensed_image",
+      "coverage": "Local Rugova landscape image",
+      "notes": "Photographer SUHEJLO; CC BY 4.0."
+    },
+    {
+      "key": "image-boge-rugova",
+      "title": "Bogë Ski Center from the sky in Rugova Mountains",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Boge_Ski-Center_from_the_sky_in_Rugova_Mountains_in_Kosovo.jpg",
+      "source_type": "licensed_image",
+      "coverage": "Local Bogë/Rugova winter landscape image",
+      "notes": "Photographer SUHEJLO; CC BY 4.0; not an agricultural image."
+    },
+    {
+      "key": "image-kipper-peja",
+      "title": "Kipper supermarket, Peja (2025)",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Kipper_supermarket,_Peja,_2025.jpg",
+      "source_type": "licensed_image",
+      "coverage": "Peja retail photograph",
+      "notes": "Photographer Bdx; CC0 1.0; retail, not agriculture."
+    },
+    {
+      "key": "image-apples",
+      "title": "Red Apple",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Red_Apple.jpg",
+      "source_type": "licensed_image",
+      "coverage": "Generic product photograph; not Peja",
+      "notes": "Photographer Abhijit Tembhekar; CC BY 2.0."
+    },
+    {
+      "key": "image-tomatoes",
+      "title": "Organic home-grown tomatoes — unripe to ripe",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Organic_home-grown_tomatoes_-_unripe_to_ripe.jpg",
+      "source_type": "licensed_image",
+      "coverage": "Generic tomato photograph, photographed in New Zealand",
+      "notes": "Photographer Michal Klajban; CC BY-SA 4.0; not Peja."
+    },
+    {
+      "key": "image-peppers",
+      "title": "Peppers in water",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Peppers_in_water.jpg",
+      "source_type": "licensed_image",
+      "coverage": "Generic red and yellow pepper photograph; not Peja",
+      "notes": "Photographer ulleo; CC0 1.0."
+    },
+    {
+      "key": "image-potatoes",
+      "title": "Russet potato cultivar with sprouts",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Russet_potato_cultivar_with_sprouts.jpg",
+      "source_type": "licensed_image",
+      "coverage": "Generic potato photograph; not Peja",
+      "notes": "Photographer ZooFari; file page identifies the image as public domain."
+    },
+    {
+      "key": "image-cheese",
+      "title": "Belper Mürggel B, WikiCheese Lausanne",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Belper_M%C3%BCrggel_B,_WikiCheese_Lausanne.jpg",
+      "source_type": "licensed_image",
+      "coverage": "Generic Swiss cheese photograph; not Peja",
+      "notes": "Photographer Yann Forget; CC BY-SA 4.0."
+    },
+    {
+      "key": "image-honey",
+      "title": "Three French monofloral honey jars",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Three_French_monofloral_honey_jars.jpg",
+      "source_type": "licensed_image",
+      "coverage": "Generic honey jars from France and Greece; not Peja",
+      "notes": "Photographer Hayden Soloviev; CC BY 4.0."
+    },
+    {
+      "key": "image-sour-cherries",
+      "title": "Sour cherries",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Sour_cherries.jpg",
+      "source_type": "licensed_image",
+      "coverage": "Generic sour cherry product photograph; not Peja",
+      "notes": "Photographer Nicubunu; CC BY-SA 3.0."
+    },
+    {
+      "key": "image-pears",
+      "title": "Four pears",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Four_pears.jpg",
+      "source_type": "licensed_image",
+      "coverage": "Generic pear product photograph; not Peja",
+      "notes": "Photographer Rhododendrites; CC BY-SA 4.0."
+    },
+    {
+      "key": "image-cucumbers",
+      "title": "Cucumbers",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Kurkkuja.jpg",
+      "source_type": "licensed_image",
+      "coverage": "Generic cucumber product photograph; not Peja",
+      "notes": "Photographer Muu-karhu; CC BY-SA 3.0."
+    },
+    {
+      "key": "image-spinach",
+      "title": "Spinach leaves",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Spinach_leaves.jpg",
+      "source_type": "licensed_image",
+      "coverage": "Generic spinach product photograph; not Peja",
+      "notes": "Photographer Nillerdk; CC BY 3.0."
+    },
+    {
+      "key": "image-eggs",
+      "title": "Egg cartons with chicken eggs",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Egg_cartons_with_chicken_eggs_02.jpg",
+      "source_type": "licensed_image",
+      "coverage": "Generic chicken egg product photograph; not Peja",
+      "notes": "Photographer Krzysztof Golik; CC BY-SA 4.0."
+    },
+    {
+      "key": "image-buckwheat-flour",
+      "title": "Buckwheat flour",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Buckwheat_Flour_%284107890675%29.jpg",
+      "source_type": "licensed_image",
+      "coverage": "Generic buckwheat flour product photograph; not Peja",
+      "notes": "Photographer Veganbaking.net; CC BY-SA 2.0."
+    },
+    {
+      "key": "image-corn-kernels",
+      "title": "Corn kernels",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Corn_kernels.jpg",
+      "source_type": "licensed_image",
+      "coverage": "Generic corn product photograph; not Peja",
+      "notes": "Photographer Danielgrad; CC BY-SA 3.0."
+    },
+    {
+      "key": "image-carrots",
+      "title": "A tray of fresh carrots",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:A_tray_of_fresh_carrots.jpg",
+      "source_type": "licensed_image",
+      "coverage": "Generic carrot product photograph; not Peja",
+      "notes": "Photographer Bukky658; CC BY-SA 4.0."
+    },
+    {
+      "key": "image-brown-bread",
+      "title": "Boston brown bread loaf",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Boston_Brown_Bread_loaf_-_Massachusetts.jpg",
+      "source_type": "licensed_image",
+      "coverage": "Generic brown bread product photograph; not Peja",
+      "notes": "Photographer Daderot; CC0 1.0."
+    },
+    {
+      "key": "image-herbs",
+      "title": "Fresh herb bundle at a market",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Liat_Portal_for_Foodie_Disorder_-_Fresh_Herb_Bundle_from_San_Francisco_Farmers_Market.jpg",
+      "source_type": "licensed_image",
+      "coverage": "Generic fresh herb bundle at a San Francisco market; not Peja",
+      "notes": "Photographer HaJunkiyada; CC BY-SA 4.0."
+    },
+    {
+      "key": "image-plum-jam",
+      "title": "Strawberry-plum jam jars",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:MonroeCountyFair2018StrawberryPlumJam.jpg",
+      "source_type": "licensed_image",
+      "coverage": "Generic strawberry-plum jam product photograph; not Peja",
+      "notes": "Photographer DanielPenfield; CC BY-SA 4.0."
+    },
+    {
+      "key": "image-natural-yogurt",
+      "title": "Bulgarian yogurt",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Joghurt.jpg",
+      "source_type": "licensed_image",
+      "coverage": "Generic yogurt product photograph; not Peja",
+      "notes": "Rainer Zenz assumed as photographer on Wikimedia Commons; CC BY-SA 3.0."
+    }
+  ]
+}

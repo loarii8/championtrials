@@ -1,0 +1,125 @@
+{
+  "accessed_date": "2026-11-21",
+  "records": [
+    {
+      "slug": "peja-apples-census-2014",
+      "product": "Apples",
+      "category": "Fruits",
+      "regional_relevance": "ASK's 2014 Agricultural Census recorded 176.70 hectares of apple orchards in Peja municipality.",
+      "evidence_scope": "Peja municipality; historical 2014 census",
+      "typical_unit": null,
+      "seasonality": null,
+      "description": "Historical orchard-area context only; it does not establish current output, origin of an individual listing, or availability.",
+      "price": null,
+      "price_currency": null,
+      "price_source": null,
+      "price_observed_date": null,
+      "price_type": null,
+      "source_urls": [
+        "https://askdata.rks-gov.net/api/v1/en/ASKdata/Agriculture/Agriculture%20census%202014/2%20Land%20Use/Tabla%202_16.px"
+      ],
+      "verification_status": "publicly_documented",
+      "publication_status": "pending"
+    },
+    {
+      "slug": "peja-plums-census-2014",
+      "product": "Plums",
+      "category": "Fruits",
+      "regional_relevance": "ASK's 2014 Agricultural Census recorded 28.52 hectares of plum orchards in Peja municipality.",
+      "evidence_scope": "Peja municipality; historical 2014 census",
+      "typical_unit": null,
+      "seasonality": null,
+      "description": "Historical orchard-area context only; it does not establish current output, origin of an individual listing, or availability.",
+      "price": null,
+      "price_currency": null,
+      "price_source": null,
+      "price_observed_date": null,
+      "price_type": null,
+      "source_urls": [
+        "https://askdata.rks-gov.net/api/v1/en/ASKdata/Agriculture/Agriculture%20census%202014/2%20Land%20Use/Tabla%202_16.px"
+      ],
+      "verification_status": "publicly_documented",
+      "publication_status": "pending"
+    },
+    {
+      "slug": "peja-pears-census-2014",
+      "product": "Pears",
+      "category": "Fruits",
+      "regional_relevance": "ASK's 2014 Agricultural Census recorded 8.92 hectares of pear orchards in Peja municipality.",
+      "evidence_scope": "Peja municipality; historical 2014 census",
+      "typical_unit": null,
+      "seasonality": null,
+      "description": "Historical orchard-area context only; it does not establish current output, origin of an individual listing, or availability.",
+      "price": null,
+      "price_currency": null,
+      "price_source": null,
+      "price_observed_date": null,
+      "price_type": null,
+      "source_urls": [
+        "https://askdata.rks-gov.net/api/v1/en/ASKdata/Agriculture/Agriculture%20census%202014/2%20Land%20Use/Tabla%202_16.px"
+      ],
+      "verification_status": "publicly_documented",
+      "publication_status": "pending"
+    },
+    {
+      "slug": "peja-dairy-livestock-census-2014",
+      "product": "Dairy cattle and livestock",
+      "category": "Dairy Products",
+      "regional_relevance": "ASK's 2014 Agricultural Census recorded 18,199 cattle, including 8,893 dairy cows, along with sheep and goats in Peja municipality.",
+      "evidence_scope": "Peja municipality; historical 2014 livestock census",
+      "typical_unit": null,
+      "seasonality": null,
+      "description": "Livestock counts are not current dairy output or evidence that a specific seller offers milk, cheese, or meat.",
+      "price": null,
+      "price_currency": null,
+      "price_source": null,
+      "price_observed_date": null,
+      "price_type": null,
+      "source_urls": [
+        "https://askdata.rks-gov.net/api/v1/en/ASKdata/Agriculture/Agriculture%20census%202014/3%20Livestock/Tabela%203_3.px"
+      ],
+      "verification_status": "publicly_documented",
+      "publication_status": "pending"
+    },
+    {
+      "slug": "rugova-municipal-food-traditions-product-reference",
+      "product": "Milk, cheese, yogurt, honey, mountain tea, lakror, flija, and kaçamak",
+      "category": "Homemade Products",
+      "regional_relevance": "These foods are named in Peja Municipality's tourism material about Rugova and a listed food venue.",
+      "evidence_scope": "Municipal tourism description; not producer or current supply verification",
+      "typical_unit": null,
+      "seasonality": null,
+      "description": "Municipality-documented food traditions; not an assertion that these products are currently farm-produced or available for sale.",
+      "price": null,
+      "price_currency": null,
+      "price_source": null,
+      "price_observed_date": null,
+      "price_type": null,
+      "source_urls": [
+        "https://peja.rks-gov.net/burimet-natyrore-resurset-turistike/"
+      ],
+      "verification_status": "publicly_documented",
+      "publication_status": "pending"
+    },
+    {
+      "slug": "peja-historical-squash-carrots-peppers-reference",
+      "product": "Squash, carrots, and peppers",
+      "category": "Vegetables",
+      "regional_relevance": "A 2020 article reports that an unnamed farmer in Peja supplied these vegetables to a restaurant in Prishtina.",
+      "evidence_scope": "Single historical media report; unnamed supplier",
+      "typical_unit": null,
+      "seasonality": null,
+      "description": "A dated sourcing reference only. The farmer is unnamed; no current supply or individual producer is established.",
+      "price": null,
+      "price_currency": null,
+      "price_source": null,
+      "price_observed_date": null,
+      "price_type": null,
+      "source_urls": [
+        "https://prishtinainsight.com/guide/thana-rosticeri-bringing-the-farm-to-your-plate/"
+      ],
+      "verification_status": "publicly_documented",
+      "publication_status": "pending"
+    }
+  ]
+}
